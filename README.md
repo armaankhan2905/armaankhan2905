@@ -1,50 +1,23 @@
-<div align="center">
+# Hi, I'm Armaan Khan 👋
 
-# 👋 Hi, I'm Armaan Khan
+## 💻 Full-Stack Developer in Progress • AI Enthusiast • Problem Solver
 
-### 💻 Full-Stack Developer in Progress • 🤖 AI Enthusiast • 🧠 Problem Solver
-
-Passionate about building meaningful software, exploring AI, and continuously improving as a developer.
-
-</div>
+Passionate about building meaningful software, exploring artificial intelligence, and continuously improving as a developer.
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🐤 About Me
 
-### 🎯 About Me
-
-🎓 B.Tech CSE — AI & ML  
-💡 Full-Stack Development & AI  
-🌱 Learning Java & DSA  
-⚛️ Exploring React & Backend  
-🚀 Building real-world projects
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛠️ Currently Learning
-
-`Java` `DSA` `React`  
-`Node.js` `Express.js`  
-`Python` `FastAPI`  
-`SQL` `MongoDB` `Cloud`
-
-### 🎯 Goal
-
-**Full-Stack Developer & AI Engineer**
-
-</td>
-</tr>
-</table>
+- 🎓 Pursuing B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)
+- 💡 Interested in Full-Stack Development, Artificial Intelligence, and Software Engineering
+- 🌱 Currently learning Java, Data Structures & Algorithms, React, Backend Development, and Cloud Technologies
+- 🚀 I enjoy building responsive, scalable, and user-friendly applications
+- 🎯 Working towards becoming a skilled Full-Stack Developer & AI Engineer
 
 ---
 
-<div align="center">
+## 🎯 Current Focus
 
-### 🚀 Build • Learn • Improve • Repeat
-
-</div>
+- 📚 Strengthening Data Structures & Algorithms
+- ⚛️ Building modern web applications with React
+- 🌐 Exploring backend development and databases
