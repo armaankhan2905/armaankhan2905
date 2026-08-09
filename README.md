@@ -1,12 +1,16 @@
-<div align="center">
-
 # Hi, I'm Armaan Khan 👋
 
 ### 💻 Full-Stack Developer in Progress • AI Enthusiast • Problem Solver
 
 Passionate about building meaningful software, exploring artificial intelligence, and continuously improving as a developer.
 
-</div>
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=armaankhan2905&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -30,10 +34,6 @@ Passionate about building meaningful software, exploring artificial intelligence
 
 ---
 
-<div align="center">
-
 ### ⭐ Thanks for visiting my profile!
 
 *"Code with curiosity. Build with purpose."*
-
-</div>
